@@ -1,0 +1,15 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+out
+
+# mv
+target/
+
+# Mac
+.DS_Store
+
+# jenv
+.java-version
